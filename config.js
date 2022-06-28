@@ -4,16 +4,16 @@ import { fileURLToPath } from 'url'
 
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a | Add the numbers to be Owner ⋅.━━━━ ⊰
 global.owner = [
-  ['593993684821', 'GataBot-MD 💖🐈', true],
-  ['593968585383'],
-  ['51941819582'],
-  ['51930583082'],
-  ['14509774891']
+  ['50578229009', 'Shinoa Bot', true],
+  ['50576796164'],
+ 
+
+
 ]
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
 global.mods = [] 
-global.prems = ['528451003894'], 
+global.prems = ['50576796164'], 
 
 global.APIs = { // API Prefix.
   
@@ -71,8 +71,8 @@ global.APIKeys = { // APIKey Here
 
 //⊱ ━━━━━.⋅ Sticker WM ⋅.━━━━ ⊰
 
-global.packname = '🐈 𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿'
-global.author = '𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨'
+global.packname = '𝗦𝗛𝗜𝗡𝗢𝗔𝜷𝝄𝞽'
+global.author = '𝗝𝗼𝘀𝗲𝗭𝘇𝘇'
 
 //━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
@@ -82,7 +82,7 @@ global.author = '𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨'
 global.vs = '1.1.5'
 global.version = vs
 
-global.gt = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿'
+global.gt = '𝗦𝗛𝗜𝗡𝗢𝗔𝜷𝝄𝞽'
 global.gatabot = gt
 
 global.yt = 'https://youtube.com/channel/UCpNU4eY7eiI0ve05CssjdbA'
