@@ -85,22 +85,22 @@ global.version = vs
 global.gt = '𝗦𝗛𝗜𝗡𝗢𝗔𝜷𝝄𝞽'
 global.gatabot = gt
 
-global.yt = 'https://youtube.com/channel/UCpNU4eY7eiI0ve05CssjdbA'
+global.yt = 'https://youtube.com/channel/UCO3zMzHQ3n2C0ypN2Y5aeeg'
 global.youtube = yt
 
-global.ig = 'https://www.instagram.com/gata_dios'
+global.ig = 'https://www.instagram.com/josedev2nc'
 global.gatadiosig = ig
 
-global.md = 'https://github.com/GataNina-Li/GataBot-MD'
+global.md = 'https://github.com/Jose21NC/ShinoaBot'
 global.gatabot = md
 
-global.nn = 'https://chat.whatsapp.com/Hahc7UwSouH9jIDStkT5QW'
+global.nn = 'https://chat.whatsapp.com/J5O2VCn3X6WIeLVNrqDgPU'
 global.nngrupo = nn
 
-global.nnn = 'https://chat.whatsapp.com/K3BB4VtvyzyJdnX2jLeurh'
+global.nnn = 'https://chat.whatsapp.com/J5O2VCn3X6WIeLVNrqDgPU'
 global.nnngrupo = nnn
 
-global.paypal = 'https://paypal.me/OficialGD'
+global.paypal = 'https://paypal.me/JObregonalonzo'
 global.donar = paypal
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
@@ -134,8 +134,8 @@ global.exito = eg
 
 //⊱ ━━━━━.⋅ Información | Information ⋅.━━━━ ⊰
 
-global.wm = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 | 𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨'
-global.igfg = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿'
+global.wm = '𝗦𝗛𝗜𝗡𝗢𝗔𝜷𝛔𝞽|꧁⇱㋝ℐⲞᶊℇʛⲟ⃢ɗ ㊋⇲꧂'
+global.igfg = '𝗦𝗛𝗜𝗡𝗢𝗔𝜷𝛔𝞽'
 global.wait = '*⌛ _Cargando..._ ▬▬▬▭*'
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
