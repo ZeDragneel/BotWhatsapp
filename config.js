@@ -4,8 +4,8 @@ import { fileURLToPath } from 'url'
 
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a | Add the numbers to be Owner ⋅.━━━━ ⊰
 global.owner = [
-  ['50578229009', 'Shinoa Bot', true],
-  ['50576796164'],
+  ['51994873479', 'Shinoa Bot', true],
+  ['51934415167'],
  
 
 
@@ -13,7 +13,7 @@ global.owner = [
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
 global.mods = [] 
-global.prems = ['50576796164'], 
+global.prems = ['51934415167'], 
 
 global.APIs = { // API Prefix.
   
@@ -72,7 +72,7 @@ global.APIKeys = { // APIKey Here
 //⊱ ━━━━━.⋅ Sticker WM ⋅.━━━━ ⊰
 
 global.packname = '𝗦𝗛𝗜𝗡𝗢𝗔𝜷𝝄𝞽'
-global.author = '𝗝𝗼𝘀𝗲𝗭𝘇𝘇'
+global.author = '卍❖❦Ángel[[天使]]❦❖卍'
 
 //━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
@@ -94,10 +94,10 @@ global.gatadiosig = ig
 global.md = 'https://github.com/Jose21NC/ShinoaBot'
 global.gatabot = md
 
-global.nn = 'https://chat.whatsapp.com/J5O2VCn3X6WIeLVNrqDgPU'
+global.nn = 'https://chat.whatsapp.com/HfscdYJm89BGEd39aflJjC'
 global.nngrupo = nn
 
-global.nnn = 'https://chat.whatsapp.com/J5O2VCn3X6WIeLVNrqDgPU'
+global.nnn = 'https://chat.whatsapp.com/HfscdYJm89BGEd39aflJjC'
 global.nnngrupo = nnn
 
 global.paypal = 'https://paypal.me/JObregonalonzo'
@@ -134,7 +134,7 @@ global.exito = eg
 
 //⊱ ━━━━━.⋅ Información | Information ⋅.━━━━ ⊰
 
-global.wm = '𝗦𝗛𝗜𝗡𝗢𝗔𝜷𝛔𝞽|꧁⇱㋝ℐⲞᶊℇʛⲟ⃢ɗ ㊋⇲꧂'
+global.wm = '𝗦𝗛𝗜𝗡𝗢𝗔𝜷𝛔𝞽|卍❖❦Ángel[[天使]]❦❖卍'
 global.igfg = '𝗦𝗛𝗜𝗡𝗢𝗔𝜷𝛔𝞽'
 global.wait = '*⌛ _Cargando..._ ▬▬▬▭*'
 
